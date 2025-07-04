@@ -1,0 +1,8 @@
+streamlit
+gdown
+opencv-python-headless
+Pillow
+numpy
+tensorflow>=2.10.0
+pandas
+streamlit-option-menu
